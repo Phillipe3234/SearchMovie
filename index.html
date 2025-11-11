@@ -1707,7 +1707,7 @@
                 const itemsPerPage = 24;
                 const startItem = (currentPage - 1) * itemsPerPage + 1;
                 const endItem = Math.min(currentPage * itemsPerPage, totalResults);
-                categoryInfo.textContent = `Exibindo ${startItem}-${endItem} de ${totalResults} resultados`;
+                categoryInfo.textContent = `Exibindo ${startItem} de ${endItem}`;
                 
                 categoryMediaGrid.innerHTML = '';
                 
@@ -1984,4 +1984,5 @@
     
 </body>
 </html>
+
 
