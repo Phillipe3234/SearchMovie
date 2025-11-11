@@ -4,21 +4,21 @@ Sistema profissional de gerenciamento de catálogo de filmes e séries com inter
 
 ## Funcionalidades Principais
 
-- **Catálogo de Filmes e Séries: Navegação por categorias populares e gêneros específicos
-- **Sistema de Busca Avançada: Pesquisa em tempo real com sugestões e histórico
-- **Catálogo Local: Armazenamento e gerenciamento de mídias favoritas
-- **Algoritmo de Ordenação: Implementação do QuickSort para organizar o catálogo
-- **Design Responsivo: Interface adaptável para diferentes dispositivos
-- **Modal de Detalhes: Visualização completa de informações sobre cada título
+- Catálogo de Filmes e Séries: Navegação por categorias populares e gêneros específicos
+- Sistema de Busca Avançada: Pesquisa em tempo real com sugestões e histórico
+- Catálogo Local: Armazenamento e gerenciamento de mídias favoritas
+- Algoritmo de Ordenação: Implementação do QuickSort para organizar o catálogo
+- Design Responsivo: Interface adaptável para diferentes dispositivos
+- Modal de Detalhes: Visualização completa de informações sobre cada título
 
 
 ## Tecnologias Utilizadas
 
-- **Frontend: HTML5, CSS3 com variáveis CSS, JavaScript ES6+
-- **Armazenamento: LocalStorage para persistência de dados
-- **API: Integração com The Movie Database (TMDB)
-- **Estruturas de Dados: Implementação de List, Map e Set
-- **Algoritmo: QuickSort para ordenação eficiente
+- Frontend: HTML5, CSS3 com variáveis CSS, JavaScript ES6+
+- Armazenamento: LocalStorage para persistência de dados
+- API: Integração com The Movie Database (TMDB)
+- Estruturas de Dados: Implementação de List, Map e Set
+- Algoritmo: QuickSort para ordenação eficiente
 
 
 ## Características Técnicas
