@@ -30,14 +30,6 @@ Sistema profissional de gerenciamento de catálogo de filmes e séries com inter
 - Gestão completa do catálogo pessoal (CRUD)
 
 
-## Como usar?
-
-- Abra o arquivo index.html em um navegador web
-- Explore filmes e séries através das categorias disponíveis
-- Utilize a barra de busca para encontrar títulos específicos
-- Importe seus favoritos para o catálogo local. Pode usar o catálogo como lista de filmes para assistir depois
-
-
 ## Estruturas de Dados Implementadas:
 
 - List: Armazenamento de resultados de busca
